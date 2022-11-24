@@ -1,0 +1,4 @@
+Daily
+Monthly
+Quaterly
+Annualy
