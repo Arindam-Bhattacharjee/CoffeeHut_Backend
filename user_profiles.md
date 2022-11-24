@@ -2,3 +2,4 @@
 - Monthly
 - Quaterly
 - Annualy
+- loyal
